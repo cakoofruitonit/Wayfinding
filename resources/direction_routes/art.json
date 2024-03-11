@@ -1,0 +1,45 @@
+{
+    "Routes" :
+    [
+        {
+            "RouteID" : "ARTtoSCI",
+            "RouteADA" : [
+                {
+                    "directions": "Exit automatic door"
+                },
+                {
+                    "directions": "Turn left to sidewalk"
+                },
+                {
+                    "directions": "Cross the street"
+                },
+                {
+                    "directions": "Take ramp to top"
+                },
+                {
+                    "directions": "Enter Science Building"
+                }
+            ],
+            "RouteWalking" : [
+                {
+                    "directions": "Exit automatic door"
+                },
+                {
+                    "directions": "Turn left to sidewalk"
+                },
+                {
+                    "directions": "Cross the street"
+                },
+                {
+                    "directions": "Turn left to street corner"
+                },
+                {
+                    "directions": "Turn left and follow curved sidewalk"
+                },
+                {
+                    "directions": "Walk up stairs to enter Science Building"
+                }
+            ]
+        }
+    ]
+}

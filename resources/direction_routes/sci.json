@@ -1,0 +1,472 @@
+{
+    "Routes" :
+    [
+        {
+            "RouteID" : "SCItoART",
+            "RouteADA": [
+                {
+                    "directions": "Head to ramp",
+                    "image": "sci/sciexit3.png"
+                },
+                {
+                    "directions": "Take ramp to sidewalk",
+                    "image": "sci/sciramp0.png"
+                },
+                {
+                    "directions": "Cross the street, continue straight to elevator, then turn right",
+                    "image": "cloudcir/cloudcir5.jpeg"
+                },
+                {
+                    "directions": "Enter Creative Arts Building",
+                    "image": "creativearts/creativeentrance.jpeg"
+                }
+            ],
+            "RouteWalking": [
+                {
+                    "directions": "Walk down to sidewalk"
+                },
+                {
+                    "directions": "Walk to the end"
+                },
+                {
+                    "directions": "On the corner, turn right to crosswalk"
+                },
+                {
+                    "directions": "Cross the street, walk straight to elevator, then turn right",
+                    "image": "cloudcir/cloudcir5.jpeg"
+                },
+                {
+                    "directions": "Enter Creative Arts Building",
+                    "image": "creativearts/creativeentrance.jpeg"
+                }
+
+            ]
+        },
+        {
+            "RouteID": "SCItoARTX",
+            "RouteADA": [
+                {
+                    "directions": "Head to ramp",
+                    "image": "sci/sciexit3.png"
+                },
+                {
+                    "directions": "Take ramp to sidewalk",
+                    "image": "sci/sciramp0.png"
+                },
+                {
+                    "directions": "Cross the street, continue straight to elevator, then turn left",
+                    "image": "cloudcir/cloudcir5.jpeg"
+                },
+                {
+                    "directions": "Enter Creative Arts Extension Building",
+                    "image": "creativearts/creativeentrance1.jpeg"
+                }
+            ],
+            "RouteWalking": [
+                {
+                    "directions": "Walk down to sidewalk"
+                },
+                {
+                    "directions": "Walk to the end"
+                },
+                {
+                    "directions": "On the corner, turn right to crosswalk"
+                },
+                {
+                    "directions": "Cross the street, continue straight to elevator, then turn left",
+                    "image": "cloudcir/cloudcir5.jpeg"
+                },
+                {
+                    "directions": "Enter Creative Arts Extension Building",
+                    "image": "creativearts/creativeentrance1.jpeg"
+                }
+            ]
+        },
+        {
+            "RouteID" : "SCItoBATL",
+            "RouteADA" : [
+                {
+                    "directions": "Head to ramp",
+                    "image": "sci/sciexit3.png"
+                },
+                {
+                    "directions": "Take ramp to bottom",
+                    "image": "sci/sciramp0.png"
+                },
+                {
+                    "directions": "Cross the street",
+                    "image": "cloudcir/cloudcir0.png"
+                },
+                {
+                    "directions": "Follow along the path",
+                    "image": "cloudcir/cloudcir1.png"
+                },
+                {
+                    "directions": "Cross the street and head left to small overpass",
+                    "image": "cloudcir/cloudcir2.png"
+                },
+                {
+                    "directions": "Head down this path to Batmale Hall Entrance",
+                    "image": "bmtl/btmlentrance0.png"
+                }
+            ],
+            "RouteWalking": [
+                {
+                    "directions": "Walk to Stairs",
+                    "image": "sci/sciexit3.png"
+                },
+                {
+                    "directions": "Walk down to the bottom of the stairs"
+                },
+                {
+                    "directions": "Cross the street",
+                    "image": "cloudcir/cloudcir0.png"
+                },
+                {
+                    "directions": "Walk along the path",
+                    "image": "cloudcir/cloudcir1.png"
+                }, 
+                {
+                    "directions": "Cross the street and head left to small overpass",
+                    "image": "cloudcir/cloudcir2.png"
+                },
+                {
+                    "directions": "Walk down this path to Batmale Hall Entrance",
+                    "image": "btml/btmlentrance0.png"
+                }
+            ]
+        },
+        {
+            "RouteID": "SCItoCAFE",
+            "RouteADA": [
+                {
+                    "directions": "Head to ramp"
+                }, 
+                {
+                    "directions": "Take ramp to bottom"
+                }, 
+                {
+                    "directions":"Cross the street",
+                    "image": "cloudcir/cloudcir0.png"
+                },
+                {
+                    "directions": "Continue straight to nested building in front, then turn right"
+                },
+                {
+                    "directions": "Enter Cafeteria",
+                    "image": "cafe/cafeentrance.jpeg"
+                }
+            ],
+            "RouteWalking": [
+                {
+                    "directions": "Turn right and head towards flights of stairs"
+                },
+                {
+                    "directions": "Walk down to Cloud Circle"
+                },
+                {
+                    "directions": "Cross the street"
+                },
+                {
+                    "directions": "Continue straight to nested building in front, then turn right"
+                },
+                {
+                    "directions": "Enter Cafeteria",
+                    "image": "cafe/cafeentrance.jpeg"
+                }
+            ]
+        },
+        {
+            "RouteID": "SCItoCLOUD",
+            "RouteADA": [
+                {
+                    "directions": "Head towards Cloud Hall Entrance"
+                }
+            ],
+            "RouteWalking": [
+                {
+                    "directions": "Head towards Cloud Hall Entrance"
+                }
+            ]
+        },
+        {
+            "RouteID": "SCItoEHF",
+            "RouteADA": [
+                
+                {
+                    "directions": "Head to ramp",
+                    "image": "sci/sciexit3.png"
+                }, 
+                {
+                    "directions": "Take ramp to bottom",
+                    "image": "sci/sciramp0.png"
+                }, 
+                {
+                    "directions":"Cross the street",
+                    "image": "cloudcir/cloudcir0.png"
+                },
+                {
+                    "directions":"Go under bridge and follow path to Judson Avenue",
+                    "image": "creativearts/creativeunder0.png"
+                }, 
+                {
+                    "directions":"Turn right and head towards Horticulture Building Entrance"
+                    
+                }
+                
+            ],
+            "RouteWalking": [
+                {
+                    "directions": "Walk to stairs",
+                    "image": "sci/sciexit3.png"
+                }, 
+                {
+                    "directions": "Head to the bottom of the stairs"
+                }, 
+                {
+                    "directions": "Cross the street",
+                    "image": "cloudcir/cloudcir0.png"
+                },
+                {
+                    "directions":"Walk under bridge and follow path to Judson Ave",
+                    "image": "creativearts/creativeunder0.png"
+                }, 
+                {
+                    "directions":"Turn right and walk to Horticulture Building Entrance",
+                    "image": ""
+                }
+            ]
+        },
+        {
+            "RouteID": "SCItoHLTH",
+            "RouteADA": [
+                {
+                    "directions": "Head to ramp",
+                    "image": "sci/sciexit3.png"
+                },
+                {
+                    "directions": "Take ramp to bottom",
+                    "image": "sci/sciramp0.png"
+                },
+                {
+                    "directions": "Cross the street",
+                    "image": "cloudcir/cloudcir5.jpeg"
+                },
+                {
+                    "directions": "Continue straight, then turn left and pass building on left",
+                    "image": "creativearts/creativepath1.jpeg"
+                },
+                {
+                    "directions": "Head up ramp to enter Student Health Center",
+                    "image": "hlth/hlthentrance.jpeg"
+                }
+            ],
+            "RouteWalking": [
+                {
+                    "directions": "Walk down to sidewalk",
+                    "image": "sci/sciexit3.png"
+                },
+                {
+                    "directions": "Walk to the end"
+                },
+                {
+                    "directions": "On the corner, turn right to crosswalk"
+                },
+                {
+                    "directions": "Cross the street",
+                    "image": "cloudcir/cloudcir5.jpeg"
+                },
+                {
+                    "directions": "Turn left and head to ramp",
+                    "image": "creativearts/creativepath1.jpeg"
+                },
+                {
+                    "directions": "Follow ramp to Student Health Buidling Entrance",
+                    "image": "hlth/hlthentrance.jpeg"
+                }
+            ]
+        },
+        {
+            "RouteID" : "SCItoJDVL",
+            "RouteADA": [
+                {
+                    "directions": "Head to ramp",
+                    "image": "sci/sciexit3.png"
+                }, 
+                {
+                    "directions": "Take ramp to bottom",
+                    "image": "sci/sciramp0.png"
+                }, 
+                {
+                    "directions":"Cross the street",
+                    "image": "cloudcir/cloudcir0.png"
+                },
+                {
+                    "directions":"Go under bridge and follow path to arrow",
+                    "image": "creativearts/creativeunder0.png"
+                }, 
+                {
+                    "directions":"Turn left and follow the curved path to destination",
+                    "image": "creativearts/creativepath0.png"
+                }
+            ],
+            "RouteWalking": [
+                {
+                    "directions": "Walk to stairs",
+                    "image": "sci/sciexit3.png"
+                }, 
+                {
+                    "directions": "Head to the bottom of the stairs"
+                }, 
+                {
+                    "directions": "Cross the street",
+                    "image": "cloudcir/cloudcir0.png"
+                },
+                {
+                    "directions":"Walk under bridge and follow path to arrow",
+                    "image": "creativearts/creativeunder0.png"
+                }, 
+                {
+                    "directions":"Turn left and follow the curved path to destination",
+                    "image": "creativearts/creativepath0.png"
+                }
+            ]
+        },
+        {
+            "RouteID" : "SCItoLIBR",
+            "RouteADA": [
+                {
+                    "directions": "Head to ramp"
+                }, 
+                {
+                    "directions": "Take ramp to bottom",
+                    "image": "sci/sciramp1.jpeg"
+                }, 
+                {
+                    "directions":"Cross the street",
+                    "image": "cloudcir/cloudcir4.jpeg"
+                },
+                {
+                    "directions": "Turn left and follow curved path to building",
+                    "image": "cloudcir/cloudcir3.jpeg"
+                },
+                {
+                    "directions": "Enter Rosenburg Library",
+                    "image": "libr/librentrance.jpeg"
+                }
+            ],
+            "RouteWalking" : [
+                {
+                    "directions": "Turn right and head towards flights of stairs"
+                },
+                {
+                    "directions": "Walk down to Cloud Circle"
+                },
+                {
+                    "directions": "Cross the street",
+                    "image": "cloudcir/cloudcir4.jpeg"
+                },
+                {
+                    "directions": "Turn left and follow curved path to building",
+                    "image": "cloudcir/cloudcir3.jpeg"
+                },
+                {
+                    "directions": "Enter Rosenburg Library",
+                    "image": "libr/librentrance.jpeg"
+                }
+            ]
+        },
+        {
+            "RouteID" : "SCItoMUB",
+            "RouteADA": [
+                {
+                    "directions": "Turn left, then head to ramp"
+                }, 
+                {
+                    "directions": "Take ramp to sidewalk"
+                }, 
+                {
+                    "directions": "Cross the street"
+                },
+                {
+                    "directions": "Take ramp to street (Frieda Kahlo Way)"
+                },
+                {
+                    "directions": "Cross the street, then turn right"
+                },
+                {
+                    "directions": "Cross the street"
+                },
+                {
+                    "directions": "Head across parking lot and enter Multi-Use Building"
+                }
+            ],
+            "RouteWalking" : [
+                {
+                    "directions": "Walk down to sidewalk",
+                    "image": "sci/sciexit0.jpg"
+                }, 
+                {
+                    "directions": "Cross the crosswalk to the other side of sidewalk",
+                    "image": "sci/sciexit1.jpg"
+                }, 
+                {
+                    "directions": "Walk past parking lot to MUB building on the left",
+                    "image": "sci/sciexit2.jpg"
+                }
+            ]
+        },
+        {
+            "RouteID" : "SCItoWELL",
+            "RouteADA": [
+                {
+                    "directions": "Turn left, then head to ramp"
+                }, 
+                {
+                    "directions": "Take ramp to bottom"
+                }, 
+                {
+                    "directions": "Cross the street"
+                },
+                {
+                    "directions": "Turn left and follow curved path to Student Union building"
+                },
+                {
+                    "directions": "Keep left until reaching elevator"
+                },
+                {
+                    "directions": "Go down to the bottom level"
+                },
+                {
+                    "directions": "Exit elevator"
+                },
+                {
+                    "directions": "Descend via ramp behind elevator"
+                },
+                {
+                    "directions": "Entrance to Wellness Center on far right"
+                }
+            ],
+            "RouteWalking" : [
+                {
+                    "directions": "Turn right to stairs"
+                },
+                {
+                    "directions": "Walk down to the bottom of the stairs"
+                },
+                {
+                    "directions": "Cross the street and head left"
+                },
+                {
+                    "directions" : "Walk until hitting first staircase"
+                },
+                {
+                    "directions": "Walk down to the bottom of the curved stairs"
+                },
+                {
+                    "directions": "Walk straight to Wellness Center Entrance"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE-edge">
+  <meta name="viewpoint" content="width=device-width, inital-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="selectText">Select a Starting Point and Destination:</div>
+  <div class="selectTable">
+    <div2>
+      <p class="startPointText">
+        Starting Point:
+      </p>
+      <p2>
+        <select class = "chooseLocation1" id="choose-location1" name="list-of-locations1">
+          <option name="stop-9" value="BATL-Main">Batmale Hall</option>
+          <option name="stop-12" value="CAFE-Main">Cafeteria</option>
+          <option name="stop-7" value="CLOUD-Main">Cloud Hall</option>
+          <option name="stop-3" value="ART-Main">Creative Arts Building (ART)</option>
+          <option name="stop-4" value="ARTX-Main">Creative Arts Extension Building (ARTX)</option>
+          <option name="stop-11" value="EHF-Main">Floristy Center / Horticulture Building</option>
+          <option name="stop-13" value="JDVL-Main">Judson Village</option>
+          <option name="stop-2" value="MUB-Main">Multi-use Building (MUB)</option>
+          <option name="stop-5" value="LIBR-Main">Rosenberg Library (LIBR)</option>
+          <option name="stop-1" value="SCI-Main" selected="selected">Science Building</option>
+          <option name="stop-6" value="STAD-Main">Rush Stadium</option>
+          <option name="stop-8" value="HLTH-Main">Student Health Center</option>
+          <option name="stop-10" value="WELL-Main">Wellness Center</option>
+          <option value="SCI-150">⭐⭐⭐Science Building Room 150⭐⭐⭐</option>
+        </select>
+      </p2>
+    </div2>
+
+    <p3>
+      <div3>
+        <p2 style="margin-top: 10px"class="destinationText">
+          <br>Destination:   
+        </p2>
+        <select class = "chooseLocation2" id="choose-location2" name="list-of-locations2">
+          <option name="stop-9" value="BATL-Main">Batmale Hall</option>
+          <option name="stop-12" value="CAFE-Main">Cafeteria</option>
+          <option name="stop-7" value="CLOUD-Main">Cloud Hall</option>
+          <option name="stop-3" value="ART-Main">Creative Arts Building (ART)</option>
+          <option name="stop-4" value="ARTX-Main">Creative Arts Extension Building (ARTX)</option>
+          <option name="stop-11" value="EHF-Main">Floristy Center / Horticulture Building</option>
+          <option name="stop-13" value="JDVL-Main">Judson Village</option>
+          <option name="stop-2" value="MUB-Main">Multi-use Building (MUB)</option>
+          <option name="stop-5" value="LIBR-Main">Rosenberg Library (LIBR)</option>
+          <option name="stop-6" value="STAD-Main">Rush Stadium</option>
+          <option name="stop-1" value="SCI-Main">Science Building</option>
+          <option name="stop-8" value="HLTH-Main">Student Health Center</option>
+          <option name="stop-10" value="WELL-Main">Wellness Center</option>
+        </select>
+      </div3>
+      <div id="option" class="option">
+        <button id="handicap-btn" class = "handicap-btn" onclick="optionADA()">
+          <img width="100" height="100" overflow="hidden" src="images/handicap.webp"/>
+        </button>
+        <button id="walking-btn" class = "walking-btn" onclick="optionWalkable()">
+          <img width="100" height="100" overflow="hidden" src="images/walking.webp"/>
+        </button>
+      </div>
+    </p3>
+    <div class="enterButtonDiv">
+      <button id="enter" class = "enter" onclick="useDirectionButton()">DIRECTIONS 🔍</button>
+    </div>
+  </div>
+
+  <div class="directions" id="destination">
+    <span class="dir" id="direct"></span>
+    
+    <div class="path" id="dirText">
+      <span class="error" id="error"></span>
+      <br>
+      <span class="line1" id="textline1"></span>
+      <span class="line2" id="textline2"></span>
+      <span class="line3" id="textline3"></span>
+      <span class="line4" id="textline4"></span>
+      <span class="line5" id="textline5"></span>
+      <span class="line6" id="textline6"></span>
+      <span class="line7" id="textline7"></span>
+      <span class="line8" id="textline8"></span>
+      <span class="line9" id="textline9"></span>
+      <span class="line10" id="textline10"></span>
+      <div class ="imageDiv" id="imageDiv"></div>
+      <div id="change-image-div" class="change-image-div">
+        <button id="change-image-btn" class="change-image-btn" onclick="openFullScreenHandler()">
+          <img height="65px" width="65px" src="images/enlarge.png">
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <p class = "next">
+    <button class="previous-btn" onclick="buttonPrevious()">PREV</button>
+    <button class="next-btn" onclick="buttonNext()">NEXT</button>
+  </p>
+
+  <div class="fullscreen-div" id="fullscreen-div"></div>
+
+  <script src="functionality.js"></script>
+
+  </body>
+</html>

@@ -1,0 +1,48 @@
+{
+    "Routes" :
+    [
+        {
+            "RouteID" : "EHFtoSCI",
+            "RouteADA" : [
+                {
+                    "directions": "Exit Horticulture Building"
+                },
+                {
+                    "directions": "Turn left and head to corner"
+                },
+                {
+                    "directions": "Turn left and head straight"
+                },
+                {
+                    "directions": "Cross the street"
+                },
+                {
+                    "directions": "Take ramp to top"
+                },
+                {
+                    "directions": "Head across and enter Science Building"
+                }
+            ],
+            "RouteWalking" : [
+                {
+                    "directions": "Exit Horticulture Building"
+                },
+                {
+                    "directions": "Turn left and head to corner"
+                },
+                {
+                    "directions": "Turn left and head straight"
+                },
+                {
+                    "directions": "Cross the street"
+                },
+                {
+                    "directions": "Take stairs to top"
+                },
+                {
+                    "directions": "Enter Science Building"
+                }
+            ]
+        }
+    ]
+}

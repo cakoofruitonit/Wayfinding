@@ -1,0 +1,57 @@
+[
+    {
+        "routeID": "JDVLtoART",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1eJy0ucwBFOQX9jv35yvYAl552r9eY3c&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1eJy0ucwBFOQX9jv35yvYAl552r9eY3c&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "JDVLtoARTX",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=18Mm467YlNAOfrxwHrccdJ0tZGGc_jIo&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=18Mm467YlNAOfrxwHrccdJ0tZGGc_jIo&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "JDVLtoBATL",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=13UuV4TGmlf3Nwe0N8RlwXu588cWx-yg&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=13UuV4TGmlf3Nwe0N8RlwXu588cWx-yg&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "JDVLtoCAFE",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1r84XKAU8P6hMGZxQe5qyA4fRP05Hahw&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1fpUknq0VC0OeGZ3DuQ3dsuMeqs6GtMA&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "JDVLtoCLOUD",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=14WQ54uLvzIccz5c2qY3VY7gQWpURKtw&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1Zhe1ZS23dvdT4LQSQeiekquk5fiKs6w&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "JDVLtoEHF",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1rD1DUuhCQi6ryC9GziSgZzYN_arwBSk&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1rD1DUuhCQi6ryC9GziSgZzYN_arwBSk&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "JDVLtoHLTH",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1JdJQY3-OjlS-mVXilJH9Dh_j6itvhLI&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1JdJQY3-OjlS-mVXilJH9Dh_j6itvhLI&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "JDVLtoLIBR",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1rOCWsESnqSyqS21Zov4A-WkYB3xlCXc&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1rOCWsESnqSyqS21Zov4A-WkYB3xlCXc&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "JDVLtoMUB",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1PKx5zuz8Gy5HVz56DkRDpN49vv3PMrA&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1PKx5zuz8Gy5HVz56DkRDpN49vv3PMrA&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "JDVLtoSCI",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1uQTghZ0VlPS0rOVYdB6adHs12OpQQxs&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1yQjv3IwTpHg5I58776v8Xm-sYwAV6TQ&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "JDVLtoWELL",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=18XHjueV7NrGHfAXBqV7mDUz7qTXdbbU&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1Jo0HT1eOOfJTQn0hBfqE37211V0H8Ho&ehbc=2E312F&noprof=1"
+    }
+]

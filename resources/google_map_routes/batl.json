@@ -1,0 +1,62 @@
+[
+    {
+        "routeID": "BATLtoART",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1X8BnLrJSZJBQOu0CvEWXSqdldd7NFb8&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1X8BnLrJSZJBQOu0CvEWXSqdldd7NFb8&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "BATLtoARTX",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1HV4XuoVjh5Eq9Xy2I4mEECbKLTNqblY&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1HV4XuoVjh5Eq9Xy2I4mEECbKLTNqblY&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "BATLtoCAFE",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1AEhe8zwvBOOa6kz4Pm4pSGxMyTj21ew&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1AEhe8zwvBOOa6kz4Pm4pSGxMyTj21ew&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "BATLtoCLOUD",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1Ad6fUrlmMkbWpdITfGzu5Ww2oozzK7A&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=15hnXAHZjWyGqEbhla8JEeotANZah5zo&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "BATLtoEHF",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1KaKOt5acKgBUjwcLxgktj8AHUFvEeCA&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1KaKOt5acKgBUjwcLxgktj8AHUFvEeCA&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "BATLtoJDVL",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1dYHFOAmr-cEnStdgxZy2dUNocRg9mXg&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1dYHFOAmr-cEnStdgxZy2dUNocRg9mXg&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "BATLtoHLTH",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1Fj3gq7eJ6BKEO6au58yUQzeWhSq57Ik&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1Fj3gq7eJ6BKEO6au58yUQzeWhSq57Ik&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "BATLtoLIBR",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1EqfzBoc9O-X4rjVGxnvpS7iHOkzaEMc&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1EqfzBoc9O-X4rjVGxnvpS7iHOkzaEMc&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "BATLtoMUB",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1WsMvvkYdqvoBGPKKFwFXPWceMCiNpEo&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1WsMvvkYdqvoBGPKKFwFXPWceMCiNpEo&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID":"BATLtoSCI",
+        "urlADA":"https://www.google.com/maps/d/embed?mid=1s314C7GMZtGeurUpNB4KoAAEgSKw0Hc&ehbc=2E312F&noprof=1",
+        "urlWalking":"https://www.google.com/maps/d/embed?mid=1lox5tmi_rhEGhdhaT5XZxE5T6l6asYo&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "BATLtoSTAD",
+        "urlADA": "",
+        "urlWalking": ""
+    },
+    {
+        "routeID": "BATLtoWELL",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1F79Xb0PXxqdlhbYb3VNL-80o-_fyato&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1e7pRKKWdhRUDjV665e-CCsLMSfV7mcA&ehbc=2E312F&noprof=1"
+    }
+]

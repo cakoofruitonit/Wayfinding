@@ -1,0 +1,57 @@
+[
+    {
+        "routeID": "EHFtoART",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1gEig_r1UNxAe4yhF-HbrhFirVKuPkDU&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1gEig_r1UNxAe4yhF-HbrhFirVKuPkDU&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "EHFtoARTX",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1WtILXFZm9nwzSdDAk_mI-QYSEG6tDfY&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1WtILXFZm9nwzSdDAk_mI-QYSEG6tDfY&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "EHFtoBATL",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1EgOQYh6H-0oWQep9V5Yzo1oS4-glBTk&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1EgOQYh6H-0oWQep9V5Yzo1oS4-glBTk&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "EHFtoCAFE",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1xdsq4g2s9oOUcPIepJ4AY2of7VrNdp8&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=18i85iHlYv42S4LFPQRvCPxuEPceFHKc&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "EHFtoCLOUD",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1n4Micqg8X0ttEsHvCMNpxN0Agg1Sing&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=16wJOI249Uf-ZLmUhgq-gYjNCNBmqglY&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "EHFtoHLTH",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1gr9AD4avgsb8oSU66Hz_0jttRlJaA_4&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1a4ffCRWjrGO1lFBMQPBgwDyGkDPfU64&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "EHFtoJDVL",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1OFYPZsOYlVNgHIU57q4MuUjxGTuihcQ&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1OFYPZsOYlVNgHIU57q4MuUjxGTuihcQ&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "EHFtoLIBR",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1RjmRz1ty0njd_74GAU6xKM1WJwiPk3s&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1RjmRz1ty0njd_74GAU6xKM1WJwiPk3s&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "EHFtoMUB",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1oCsC_4Ao50EOUY7ZdeSxc_imd1_Wy2w&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1oCsC_4Ao50EOUY7ZdeSxc_imd1_Wy2w&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "EHFtoSCI",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1Xfv_44cK-zvpFTQQOQbzba5jShc38PI&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1zcoLF3hlW8z5P_fDaPQlIWiHKbHAK-o&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "EHFtoWELL",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1-_AjyUymngDzqKK4S0YCQFvtSf0mkL8&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1kic9qKQazw_xtSOBY7whk9RAqxGP8co&ehbc=2E312F&noprof=1"
+    }
+]

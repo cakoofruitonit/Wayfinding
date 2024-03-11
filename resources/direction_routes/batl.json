@@ -1,0 +1,54 @@
+{
+    "Routes" :
+    [
+        {
+            "RouteID" : "BATLtoSCI",
+            "RouteADA" : [
+                {
+                    "directions": "Exit Batmale Hall"
+                },
+                {
+                    "directions": "Turn right to sidewalk"
+                },
+                {
+                    "directions": "Cross the street"
+                },
+                {
+                    "directions": "Walk along sidewalk"
+                },
+                {
+                    "directions": "Cross the street"
+                },
+                {
+                    "directions": "Take ramp to top"
+                },
+                {
+                    "directions": "Enter Science Building"
+                }
+            ],
+            "RouteWalking" : [
+                {
+                    "directions": "Exit Batmale Hall"
+                },
+                {
+                    "directions": "Turn right to sidewalk"
+                },
+                {
+                    "directions": "Cross the street"
+                },
+                {
+                    "directions": "Walk along sidewalk"
+                },
+                {
+                    "directions": "Cross the street"
+                },
+                {
+                    "directions": "Take stairs to top"
+                },
+                {
+                    "directions": "Enter Science Building"
+                }
+            ]
+        }
+    ]
+}

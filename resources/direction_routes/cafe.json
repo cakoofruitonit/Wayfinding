@@ -1,0 +1,42 @@
+{
+    "Routes" :
+    [
+        {
+            "RouteID" : "CAFEtoSCI",
+            "RouteADA" : [
+                {
+                    "directions": "Exit Cafeteria"
+                },
+                {
+                    "directions": "Turn left to sidewalk"
+                },
+                {
+                    "directions": "Cross the street"
+                },
+                {
+                    "directions": "Take ramp to top"
+                },
+                {
+                    "directions": "Enter Science Building"
+                }
+            ],
+            "RouteWalking" : [
+                {
+                    "directions": "Exit Cafeteria"
+                },
+                {
+                    "directions": "Turn left to sidewalk"
+                },
+                {
+                    "directions": "Cross the street"
+                },
+                {
+                    "directions": "Take stairs to top"
+                },
+                {
+                    "directions": "Enter Science Building"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "Routes" :
+    [
+        {
+            "RouteID" : "JDVLtoSCI",
+            "RouteADA" : [
+                {
+                    "directions": "Exit Judson Village"
+                },
+                {
+                    "directions": "Follow curved path to trail"
+                },
+                {
+                    "directions": "Turn right and head straight"
+                },
+                {
+                    "directions": "Cross the street"
+                },
+                {
+                    "directions": "Take ramp to top"
+                },
+                {
+                    "directions": "Head across and enter Science Building"
+                }
+            ],
+            "RouteWalking" : [
+                {
+                    "directions": "Exit Judson Village"
+                },
+                {
+                    "directions": "Follow curved path to trail"
+                },
+                {
+                    "directions": "Turn right and head straight"
+                },
+                {
+                    "directions": "Cross the street"
+                },
+                {
+                    "directions": "Take stairs to top"
+                },
+                {
+                    "directions": "Enter Science Building"
+                }
+            ]
+        }
+    ]
+}

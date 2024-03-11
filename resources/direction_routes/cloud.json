@@ -1,0 +1,24 @@
+{
+    "Routes" :
+    [
+        {
+            "RouteID" : "CLOUDtoSCI",
+            "RouteADA" : [
+                {
+                    "directions": "Exit Cloud Hall"
+                },
+                {
+                    "directions": "Head across Science Building"
+                }
+            ],
+            "RouteWalking" : [
+                {
+                    "directions": "Exit Cloud Hall"
+                },
+                {
+                    "directions": "Head across Science Building"
+                }
+            ]
+        }
+    ]
+}

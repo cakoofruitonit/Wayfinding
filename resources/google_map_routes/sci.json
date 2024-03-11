@@ -1,0 +1,60 @@
+[
+    {
+        "routeID":"SCItoART",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=16ZIoN6L7_VmSOhMyuHYxFboOKJbHrk8&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1Ld9IVP3qms4Z2vKPsZIrrkMO6Hu3WjQ&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "SCItoARTX",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1CKapTJ7lNP_e5lSH0HxbZc8XfgrwJYY&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1VcNWGcqXNLSv0bEEldm1q6FYYoXQNTQ&ehbc=2E312F&noprof=1"
+    },   
+    {
+        "routeID": "SCItoBATL",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1dsXjhLe0vZImd8qI5H47r1fMRI2DIj0&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1IA_vTicS0E2gYV4o9pyqAV1BvRZ4SiM&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID":"SCItoCAFE",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1mTSs0k0wQ4hGeFB0-_0hUhqvXeHlWGk&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1-soJNQLDIcixuVWKZikgg8zJNGVBHKQ&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "SCItoCLOUD",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1tW8KokmvufS_BDoBx4NmLalH3qPy-7c&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1R74SX1RDdIOHN32StNaQ8o46KMxi7_4&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "SCItoEHF",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=14Kkkr0ibjJgTCecrB1F5h_JQu1FBE1Q&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1wojngPmDAL1DDU8tnFSqkhymASeqKWM&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "SCItoHLTH",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=17wa4QOobrvy7UNXQX0tNA1-nIQJgYUA&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=14Kuxi7Q-NtoBIoyH2sn7pNJDcgJp5ag&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "SCItoMUB",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1NVMBN38kFLWF_Z2h0GswSgROs-6u4iA&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1IO6q92-0lMaS-qFiuQbym2fciK7I23s&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "SCItoJDVL",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1r9VV7uAHGkpOsDvJpHO6WzMOzttUyKE&ehbc=2E312F&noprof=1",
+        "urlWalking":"https://www.google.com/maps/d/embed?mid=18TRlhl9PayGPoAIdZd3ba5V_hj1G5dQ&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "SCItoLIBR",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1IfaAbk3dUcN1GK76pFusY9ZJt3zB7w0&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1gL_MrLqFitOMejTpDPSotK4g1yhBZPk&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "SCItoSTAD"
+    },
+    {
+        "routeID": "SCItoWELL",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1-m2Q6ScLVs5JCvEa78tEwCUTiE0DU_M&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1SDZL5-vjPFHGKrTlv7XBmT-7iHh-o70&ehbc=2E312F&noprof=1"
+    }
+]

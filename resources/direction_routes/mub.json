@@ -1,0 +1,54 @@
+{
+    "Routes" :
+    [
+        {
+            "RouteID" : "MUBtoSCI",
+            "RouteADA" : [
+                {
+                    "directions": "Exit Multi-Use Building"
+                },
+                {
+                    "directions": "Cross the parking lot"
+                },
+                {
+                    "directions": "Turn left and head to pedestrian crossing"
+                },
+                {
+                    "directions": "Cross the street, then turn left"
+                },
+                {
+                    "directions": "Cross the street"
+                },
+                {
+                    "directions": "Take ramp to top"
+                },
+                {
+                    "directions": "Cross the street"
+                },
+                {
+                    "directions": "Take ramp to top"
+                },
+                {
+                    "directions": "Enter Science Building"
+                }
+            ],
+            "RouteWalking" : [
+                {
+                    "directions": "Exit Multi-Use Building, then turn right"
+                },
+                {
+                    "directions": "Walk past the parking to street corner"
+                },
+                {
+                    "directions": "Cross the street"
+                },
+                {
+                    "directions": "Take stairs to top"
+                },
+                {
+                    "directions": "Enter Science Building"
+                }
+            ]
+        }
+    ]
+}
