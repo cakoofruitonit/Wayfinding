@@ -27,7 +27,8 @@ var height = 1000;
 var expanded = false;
 
 optionWalkable();
-changeImageSize();
+//changeImageSize();
+useDirectionButton();
 
 function optionADA(){
     selectedADA = true;
@@ -177,6 +178,12 @@ function useNextButton(startingPoint, destination){
     }
 }
 
+function swapDestinationAndStartingPoint(){
+    var temp = selectElement1.value;
+    selectElement1.value = selectElement.value;
+    selectElement.value = temp;
+}
+
 function determineRoute(startingPoint, destination){
     let s1 = startingPoint.split("-");
     let s2 = destination.split("-");
@@ -214,8 +221,9 @@ function buttonPrevious(){
     }
 }
 
+/*
 function changeImageSize(){
-    const element1 = document.getElementById("direction-image");
+    var element1 = document.getElementById("direction-image");
     element1.addEventListener("touchstart", ()=> {
         if(imageLarge){
             width = 60;
@@ -235,6 +243,7 @@ function changeImageSize(){
         }
     });
 }
+*/
 
 function exitFullscreenMode(){
     if(document.fullscreenElement){

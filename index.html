@@ -9,60 +9,71 @@
 <body>
   <div class="selectText">Select a Starting Point and Destination:</div>
   <div class="selectTable">
-    <div2>
-      <p class="startPointText">
-        Starting Point:
-      </p>
-      <p2>
-        <select class = "chooseLocation1" id="choose-location1" name="list-of-locations1">
-          <option name="stop-9" value="BATL-Main">Batmale Hall</option>
-          <option name="stop-12" value="CAFE-Main">Cafeteria</option>
-          <option name="stop-7" value="CLOUD-Main">Cloud Hall</option>
-          <option name="stop-3" value="ART-Main">Creative Arts Building (ART)</option>
-          <option name="stop-4" value="ARTX-Main">Creative Arts Extension Building (ARTX)</option>
-          <option name="stop-11" value="EHF-Main">Floristy Center / Horticulture Building</option>
-          <option name="stop-13" value="JDVL-Main">Judson Village</option>
-          <option name="stop-2" value="MUB-Main">Multi-use Building (MUB)</option>
-          <option name="stop-5" value="LIBR-Main">Rosenberg Library (LIBR)</option>
-          <option name="stop-1" value="SCI-Main" selected="selected">Science Building</option>
-          <option name="stop-6" value="STAD-Main">Rush Stadium</option>
-          <option name="stop-8" value="HLTH-Main">Student Health Center</option>
-          <option name="stop-10" value="WELL-Main">Wellness Center</option>
-          <option value="SCI-150">⭐⭐⭐Science Building Room 150⭐⭐⭐</option>
-        </select>
-      </p2>
-    </div2>
 
-    <p3>
-      <div3>
-        <p2 style="margin-top: 10px"class="destinationText">
-          <br>Destination:   
-        </p2>
-        <select class = "chooseLocation2" id="choose-location2" name="list-of-locations2">
-          <option name="stop-9" value="BATL-Main">Batmale Hall</option>
-          <option name="stop-12" value="CAFE-Main">Cafeteria</option>
-          <option name="stop-7" value="CLOUD-Main">Cloud Hall</option>
-          <option name="stop-3" value="ART-Main">Creative Arts Building (ART)</option>
-          <option name="stop-4" value="ARTX-Main">Creative Arts Extension Building (ARTX)</option>
-          <option name="stop-11" value="EHF-Main">Floristy Center / Horticulture Building</option>
-          <option name="stop-13" value="JDVL-Main">Judson Village</option>
-          <option name="stop-2" value="MUB-Main">Multi-use Building (MUB)</option>
-          <option name="stop-5" value="LIBR-Main">Rosenberg Library (LIBR)</option>
-          <option name="stop-6" value="STAD-Main">Rush Stadium</option>
-          <option name="stop-1" value="SCI-Main">Science Building</option>
-          <option name="stop-8" value="HLTH-Main">Student Health Center</option>
-          <option name="stop-10" value="WELL-Main">Wellness Center</option>
-        </select>
-      </div3>
-      <div id="option" class="option">
-        <button id="handicap-btn" class = "handicap-btn" onclick="optionADA()">
-          <img width="100" height="100" overflow="hidden" src="images/handicap.webp"/>
+  <table style="width:100%">
+    <tr>
+      <td class="table-left">
+      </td>
+      <td class="table-center">
+        <div>
+          <p class="startPointText">
+            Starting Point:
+          </p>
+          <select class = "chooseLocation1" id="choose-location1" name="list-of-locations1">
+            <option name="stop-9" value="BATL-Main">Batmale Hall</option>
+            <option name="stop-12" value="CAFE-Main">Cafeteria</option>
+            <option name="stop-7" value="CLOUD-Main">Cloud Hall</option>
+            <option name="stop-3" value="ART-Main">Creative Arts Building (ART)</option>
+            <option name="stop-4" value="ARTX-Main">Creative Arts Extension Building (ARTX)</option>
+            <option name="stop-11" value="EHF-Main">Floristy Center / Horticulture Building</option>
+            <option name="stop-13" value="JDVL-Main">Judson Village</option>
+            <option name="stop-2" value="MUB-Main">Multi-use Building (MUB)</option>
+            <option name="stop-5" value="LIBR-Main">Rosenberg Library (LIBR)</option>
+            <option name="stop-6" value="STAD-Main">Rush Stadium</option>
+            <option name="stop-1" value="SCI-Main" selected="selected">Science Building</option>
+            <option name="stop-8" value="HLTH-Main">Student Health Center</option>
+            <option name="stop-10" value="WELL-Main">Wellness Center</option>
+            <option value="SCI-150">⭐⭐⭐Science Building Room 150⭐⭐⭐</option>
+          </select>
+        </div>
+
+        <div>
+          <p class="destinationText">
+            Destination:   
+          </p>
+          <select class = "chooseLocation2" id="choose-location2" name="list-of-locations2">
+            <option name="stop-9" value="BATL-Main">Batmale Hall</option>
+            <option name="stop-12" value="CAFE-Main">Cafeteria</option>
+            <option name="stop-7" value="CLOUD-Main">Cloud Hall</option>
+            <option name="stop-3" value="ART-Main">Creative Arts Building (ART)</option>
+            <option name="stop-4" value="ARTX-Main">Creative Arts Extension Building (ARTX)</option>
+            <option name="stop-11" value="EHF-Main">Floristy Center / Horticulture Building</option>
+            <option name="stop-13" value="JDVL-Main">Judson Village</option>
+            <option name="stop-2" value="MUB-Main">Multi-use Building (MUB)</option>
+            <option name="stop-5" value="LIBR-Main">Rosenberg Library (LIBR)</option>
+            <option name="stop-6" value="STAD-Main">Rush Stadium</option>
+            <option name="stop-1" value="SCI-Main">Science Building</option>
+            <option name="stop-8" value="HLTH-Main">Student Health Center</option>
+            <option name="stop-10" value="WELL-Main">Wellness Center</option>
+          </select>
+        </div>
+      </td>
+      <td class="table-right">
+        <button id="swap-btn" class = "swap-btn" onclick="swapDestinationAndStartingPoint()">
+          <img width="70" height="70" overflow="hidden" src="images/swap.png"/>
         </button>
-        <button id="walking-btn" class = "walking-btn" onclick="optionWalkable()">
-          <img width="100" height="100" overflow="hidden" src="images/walking.webp"/>
-        </button>
-      </div>
-    </p3>
+      </td>
+    </tr>
+  </table>
+
+    <div id="option" class="option">
+      <button id="handicap-btn" class = "handicap-btn" onclick="optionADA()">
+        <img width="80" height="80" overflow="hidden" src="images/handicap.webp"/>
+      </button>
+      <button id="walking-btn" class = "walking-btn" onclick="optionWalkable()">
+        <img width="80" height="80" overflow="hidden" src="images/walking.webp"/>
+      </button>
+    </div>
     <div class="enterButtonDiv">
       <button id="enter" class = "enter" onclick="useDirectionButton()">DIRECTIONS 🔍</button>
     </div>
@@ -94,8 +105,8 @@
   </div>
 
   <p class = "next">
-    <button class="previous-btn" onclick="buttonPrevious()">PREV</button>
-    <button class="next-btn" onclick="buttonNext()">NEXT</button>
+    <button class="previous-btn" onclick="buttonPrevious()">《《《</button>
+    <button class="next-btn" onclick="buttonNext()">》》》</button>
   </p>
 
   <div class="fullscreen-div" id="fullscreen-div"></div>

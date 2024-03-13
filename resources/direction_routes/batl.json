@@ -2,6 +2,399 @@
     "Routes" :
     [
         {
+            "RouteID" : "BATLtoART",
+            "RouteADA" : [
+                {
+                    "directions": "Exit Batmale Hall"
+                },
+                {
+                    "directions": "Turn right to sidewalk"
+                },
+                {
+                    "directions": "Cross the street"
+                },
+                {
+                    "directions": "Follow sidewalk to green building ahead"
+                },
+                {
+                    "directions": "Head up ramp to enter Creative Arts Building"
+                }
+            ],
+            "RouteWalking" : [
+                {
+                    "directions": "Exit Batmale Hall"
+                },
+                {
+                    "directions": "Turn right to sidewalk"
+                },
+                {
+                    "directions": "Cross the street"
+                },
+                {
+                    "directions": "Follow sidewalk to green building ahead"
+                },
+                {
+                    "directions": "Head up ramp to enter Creative Arts Building"
+                }
+            ]
+        },
+        {
+            "RouteID" : "BATLtoARTX",
+            "RouteADA" : [
+                {
+                    "directions": "Exit Batmale Hall"
+                },
+                {
+                    "directions": "Turn right to sidewalk"
+                },
+                {
+                    "directions": "Cross the street"
+                },
+                {
+                    "directions": "Follow sidewalk and pass the green building ahead"
+                },
+                {
+                    "directions": "Turn right, then head straight for elevator"
+                },
+                {
+                    "directions": "Turn left and enter Creative Arts Extension"
+                }
+            ],
+            "RouteWalking" : [
+                {
+                    "directions": "Exit Batmale Hall"
+                },
+                {
+                    "directions": "Turn right to sidewalk"
+                },
+                {
+                    "directions": "Cross the street"
+                },
+                {
+                    "directions": "Follow sidewalk and pass the green building ahead"
+                },
+                {
+                    "directions": "Turn right, then head straight for elevator"
+                },
+                {
+                    "directions": "Turn left and enter Creative Arts Extension"
+                }
+            ]
+        },
+        {
+            "RouteID" : "BATLtoCAFE",
+            "RouteADA" : [
+                {
+                    "directions": "Exit Batmale Hall"
+                },
+                {
+                    "directions": "Head straight, then turn left to sidewalk"
+                },
+                {
+                    "directions": "Turn left, follow sidewalk, and look for 'Smith Hall' Building on left"
+                },
+                {
+                    "directions": "Turn left and pass Smith Hall"
+                },
+                {
+                    "directions": "Entrance to Cafeteria at the end on your right"
+                }
+            ],
+            "RouteWalking" : [
+                {
+                    "directions": "Exit Batmale Hall"
+                },
+                {
+                    "directions": "Head straight, then turn left to sidewalk"
+                },
+                {
+                    "directions": "Turn left, follow sidewalk, and look for 'Smith Hall' Building on left"
+                },
+                {
+                    "directions": "Turn left and pass Smith Hall"
+                },
+                {
+                    "directions": "Entrance to Cafeteria at the end on your right"
+                }
+            ]
+        },
+        {
+            "RouteID" : "BATLtoCLOUD",
+            "RouteADA" : [
+                {
+                    "directions": "Exit Batmale Hall"
+                },
+                {
+                    "directions": "Turn right to sidewalk"
+                },
+                {
+                    "directions": "Cross the street"
+                },
+                {
+                    "directions": "Walk along sidewalk"
+                },
+                {
+                    "directions": "Cross the street"
+                },
+                {
+                    "directions": "Take ramp to top"
+                },
+                {
+                    "directions": "Turn left and enter Science Building"
+                }
+            ],
+            "RouteWalking" : [
+                {
+                    "directions": "Exit Batmale Hall"
+                },
+                {
+                    "directions": "Head straight, then turn left to sidewalk"
+                },
+                {
+                    "directions": "Turn left, follow sidewalk, and look for 'The Lunch Box' shack on left"
+                },
+                {
+                    "directions": "Cross the street in front of shack"
+                },
+                {
+                    "directions": "Head up stairs and enter Cloud Hall"
+                }
+            ]
+        },
+        {
+            "RouteID" : "BATLtoEHF",
+            "RouteADA" : [
+                {
+                    "directions": "Exit Batmale Hall"
+                },
+                {
+                    "directions": "Turn right to sidewalk"
+                },
+                {
+                    "directions": "Cross the street"
+                },
+                {
+                    "directions": "Follow sidewalk to green building ahead"
+                },
+                {
+                    "directions": "Turn right and walk straight ahead to Judson Ave"
+                },
+                {
+                    "directions": "At corner, turn right"
+                },
+                {
+                    "directions": "Head straight and enter Horticulture Center on right"
+                }
+            ],
+            "RouteWalking" : [
+                {
+                    "directions": "Exit Batmale Hall"
+                },
+                {
+                    "directions": "Turn right to sidewalk"
+                },
+                {
+                    "directions": "Cross the street"
+                },
+                {
+                    "directions": "Follow sidewalk to green building ahead"
+                },
+                {
+                    "directions": "Turn right and walk straight ahead to Judson Ave"
+                },
+                {
+                    "directions": "At corner, turn right"
+                },
+                {
+                    "directions": "Head straight and enter Horticulture Center on right"
+                }
+            ]
+        },
+        {
+            "RouteID" : "BATLtoHLTH",
+            "RouteADA" : [
+                {
+                    "directions": "Exit Batmale Hall"
+                },
+                {
+                    "directions": "Turn right to sidewalk"
+                },
+                {
+                    "directions": "Cross the street"
+                },
+                {
+                    "directions": "Follow sidewalk and pass the green building ahead"
+                },
+                {
+                    "directions": "Turn right, then head straight toward elevator"
+                },
+                {
+                    "directions": "Turn left and pass building ahead"
+                },
+                {
+                    "directions": "Follow ramp to enter Student Health Center"
+                }
+            ],
+            "RouteWalking" : [
+                {
+                    "directions": "Exit Batmale Hall"
+                },
+                {
+                    "directions": "Turn right to sidewalk"
+                },
+                {
+                    "directions": "Cross the street"
+                },
+                {
+                    "directions": "Follow sidewalk and pass the green building ahead"
+                },
+                {
+                    "directions": "Turn right, then head straight toward elevator"
+                },
+                {
+                    "directions": "Turn left and pass building ahead"
+                },
+                {
+                    "directions": "Follow ramp to enter Student Health Center"
+                }
+            ]
+        },
+        {
+            "RouteID" : "BATLtoJDVL",
+            "RouteADA" : [
+                {
+                    "directions": "Exit Batmale Hall"
+                },
+                {
+                    "directions": "Turn right to sidewalk"
+                },
+                {
+                    "directions": "Cross the street"
+                },
+                {
+                    "directions": "Follow sidewalk to green building ahead"
+                },
+                {
+                    "directions": "Turn right, then head straight and look for huts on left"
+                },
+                {
+                    "directions": "Turn left and follow curved path"
+                },
+                {
+                    "directions": "Enter Judson Village"
+                }
+            ],
+            "RouteWalking" : [
+                {
+                    "directions": "Exit Batmale Hall"
+                },
+                {
+                    "directions": "Turn right to sidewalk"
+                },
+                {
+                    "directions": "Cross the street"
+                },
+                {
+                    "directions": "Follow sidewalk to green building ahead"
+                },
+                {
+                    "directions": "Turn right, then head straight and look for huts on left"
+                },
+                {
+                    "directions": "Turn left and follow curved path"
+                },
+                {
+                    "directions": "Enter Judson Village"
+                }
+            ]
+        },
+        {
+            "RouteID" : "BATLtoLIBR",
+            "RouteADA" : [
+                {
+                    "directions": "Exit Batmale Hall"
+                },
+                {
+                    "directions": "Head straight, then turn left to sidewalk"
+                },
+                {
+                    "directions": "Turn left, follow sidewalk, and look for tall building with the label 'LIBRARY' ahead"
+                },
+                {
+                    "directions": "Enter Rosenburg Library"
+                }
+            ],
+            "RouteWalking" : [
+                {
+                    "directions": "Exit Batmale Hall"
+                },
+                {
+                    "directions": "Head straight, then turn left to sidewalk"
+                },
+                {
+                    "directions": "Turn left, follow sidewalk, and look for tall building with the label 'LIBRARY' ahead"
+                },
+                {
+                    "directions": "Enter Rosenburg Library"
+                }
+            ]
+        },
+        {
+            "RouteID" : "BATLtoMUB",
+            "RouteADA" : [
+                {
+                    "directions": "Exit Batmale Hall"
+                },
+                {
+                    "directions": "Turn right to sidewalk"
+                },
+                {
+                    "directions": "Cross the street"
+                },
+                {
+                    "directions": "Follow sidewalk to Frida Khaho Way"
+                },
+                {
+                    "directions": "Cross the street at corner"
+                },
+                {
+                    "directions": "Head straight and look for large staircase and statue on left"
+                },
+                {
+                    "directions": "From there, cross the street"
+                },
+                {
+                    "directions": "Pass parking lot and enter Multi-use Building on left"
+                }
+            ],
+            "RouteWalking" : [
+                {
+                    "directions": "Exit Batmale Hall"
+                },
+                {
+                    "directions": "Turn right to sidewalk"
+                },
+                {
+                    "directions": "Cross the street"
+                },
+                {
+                    "directions": "Follow sidewalk to Frida Khaho Way"
+                },
+                {
+                    "directions": "Cross the street at corner"
+                },
+                {
+                    "directions": "Head straight and look for only staircase on left"
+                },
+                {
+                    "directions": "From there, cross the street"
+                },
+                {
+                    "directions": "Pass parking lot and enter Multi-use Building on left"
+                }
+            ]
+        },
+        {
             "RouteID" : "BATLtoSCI",
             "RouteADA" : [
                 {
@@ -47,6 +440,52 @@
                 },
                 {
                     "directions": "Enter Science Building"
+                }
+            ]
+        },
+        {
+            "RouteID" : "BATLtoWELL",
+            "RouteADA" : [
+                {
+                    "directions": "Exit Batmale Hall"
+                },
+                {
+                    "directions": "Head straight, then turn left to sidewalk"
+                },
+                {
+                    "directions": "Turn left, follow sidewalk, and look for 'Student Union' Building on left"
+                },
+                {
+                    "directions": "Walk towards Student Union and turn left in front of entrance"
+                },
+                {
+                    "directions": "Follow walkway to elevator"
+                },
+                {
+                    "directions": "Select floor '1'"
+                },
+                {
+                    "directions": "Exit elevator and use ramp behind elevator"
+                },
+                {
+                    "directions": "Enter Wellness Center"
+                }
+            ],
+            "RouteWalking" : [
+                {
+                    "directions": "Exit Batmale Hall"
+                },
+                {
+                    "directions": "Head straight, then turn left to sidewalk"
+                },
+                {
+                    "directions": "Turn left, follow sidewalk, and look for tall building with the label 'LIBRARY' ahead"
+                },
+                {
+                    "directions": "Walk down stairs next to library"
+                },
+                {
+                    "directions": "Cross the amphitheather to enter Wellness Center"
                 }
             ]
         }
