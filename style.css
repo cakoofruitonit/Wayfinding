@@ -7,7 +7,7 @@
   margin-top: 20px;
   width: 100%;
   padding:10px;
-  background-color: rgb(174, 255, 228);
+  background-color: rgb(230, 255, 247);
   text-align: center;
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 80px;
@@ -28,7 +28,7 @@
   height: 100%;
   text-align: center;
   background-color: rgba(236, 233, 233, 0.864);
-  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
 }
 .enterButtonDiv{
   margin: auto;
@@ -79,10 +79,9 @@
 }
 .next{
   margin: auto;
-  width: 50%;
-  padding-top:50px;
-  text-align: center;
-  padding-bottom: 100px;
+  width: 75%;
+  text-align: left;
+  padding:20px;
 }
 .previous-btn{
   border-color: black;
@@ -90,7 +89,7 @@
   font-weight: bold;
   background-color: rgb(254, 247, 163);
   color:rgb(65,105,225);
-  width:43%;
+  width:25%;
   height:100px;
   margin-right:20px;
   font-size: 40px;
@@ -98,14 +97,15 @@
   transition: all 0.1s ease;
 }
 .next-btn{
+  float:right;
   border-color: black;
   border-style:none;
   font-weight: bold;
   background-color: rgb(254, 247, 163);
   color:rgb(65,105,225);
-  width: 43%;
+  width: 25%;
   height:100px;
-  margin-left:40px;
+  margin-left: 20px;
   font-size: 40px;
   text-align: center;
   transition: all 0.1s ease;
@@ -215,7 +215,7 @@
   font-size: 45px; 
   transition: all 0.2s ease;
 }
-.line1.bold, .line2.bold, .line3.bold, .line4.bold, .line5.bold, .line6.bold, .line7.bold{
+.line1.bold, .line2.bold, .line3.bold, .line4.bold, .line5.bold, .line6.bold, .line7.bold,  .line8.bold, .line9.bold, .line10.bold{
   font-weight:bold; 
   font-size: 60px; 
   transition: all 0.2s ease;
@@ -352,4 +352,10 @@
   transform: translateY(10px);
   border: black;
   border-style:solid;
+}
+.alerts{
+  text-align:center;
+  width:100%;
+  font-size: 20px;
+  color:red;
 }
