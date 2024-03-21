@@ -1,5 +1,10 @@
 [
     {
+        "routeID": "SCItoAMPH",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=16S-sRV5JAcejLwIKEgOZsyBFvGt9v68&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1YDiIVcM9ll3a56HhLs-Umi16AFxSUqk&ehbc=2E312F&noprof=1"
+    },
+    {
         "routeID":"SCItoART",
         "urlADA": "https://www.google.com/maps/d/embed?mid=16ZIoN6L7_VmSOhMyuHYxFboOKJbHrk8&ehbc=2E312F&noprof=1",
         "urlWalking": "https://www.google.com/maps/d/embed?mid=1Ld9IVP3qms4Z2vKPsZIrrkMO6Hu3WjQ&ehbc=2E312F&noprof=1"
@@ -51,6 +56,11 @@
     },
     {
         "routeID": "SCItoSTAD"
+    },
+    {
+        "routeID": "SCItoSU",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1tp_Os7TD0RukydcqVKO6UkZuFj6D0G4&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1aEJSmAHaCa0tqKTa-y3XkYWtCYnKSQk&ehbc=2E312F&noprof=1"
     },
     {
         "routeID": "SCItoWELL",
