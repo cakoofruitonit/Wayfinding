@@ -15,6 +15,11 @@
         "urlWalking": "https://www.google.com/maps/d/embed?mid=1VcNWGcqXNLSv0bEEldm1q6FYYoXQNTQ&ehbc=2E312F&noprof=1"
     },   
     {
+        "routeID": "SCItoB700",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=17eWrxDWoZBtOG_71EnL8BhCWa8UEuGI&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1zVFFvQ6jxapCdRmF8m3VdmsChU9758c&ehbc=2E312F&noprof=1"
+    },
+    {
         "routeID": "SCItoBATL",
         "urlADA": "https://www.google.com/maps/d/embed?mid=1dsXjhLe0vZImd8qI5H47r1fMRI2DIj0&ehbc=2E312F&noprof=1",
         "urlWalking": "https://www.google.com/maps/d/embed?mid=1IA_vTicS0E2gYV4o9pyqAV1BvRZ4SiM&ehbc=2E312F&noprof=1"
@@ -61,6 +66,11 @@
         "routeID": "SCItoSU",
         "urlADA": "https://www.google.com/maps/d/embed?mid=1tp_Os7TD0RukydcqVKO6UkZuFj6D0G4&ehbc=2E312F&noprof=1",
         "urlWalking": "https://www.google.com/maps/d/embed?mid=1aEJSmAHaCa0tqKTa-y3XkYWtCYnKSQk&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "SCItoVART",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1I7tatqnnJcWJGGJcX7Q7ogl5ZVl4oDo&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1FA0CP4j8oLcbWGwoY4YHpRwDiLcAgnU&ehbc=2E312F&noprof=1"
     },
     {
         "routeID": "SCItoWELL",
