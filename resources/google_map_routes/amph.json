@@ -1,7 +1,77 @@
 [
     {
+        "routeID": "AMPHtoART",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1jt8lS1HFFeJZDKHN-QwZL8z5PT-H0u8&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1b8Cl0jLETEZW8VcWiilDpCDrV0v0LLM&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "AMPHtoARTX",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1vaClymksdTO4EN8V5kUIRBmTXo6EoSU&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1qtpI4mflXN14-gYjvScsFE_toHRFpoI&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "AMPHtoB700",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1ITEI7bEjxfIVvDh26bOUVQSM19hX0WM&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1ITEI7bEjxfIVvDh26bOUVQSM19hX0WM&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "AMPHtoBATL",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1YFe5nFOZ5QnLT0M6EWmXnmVxZvYRzl0&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=19K51-ZMMgvjqFkoiaEImSrcX4NC6FSM&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "AMPHtoCAFE",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1rvXMS4tM1Zwd5weWWS9WfbOvs9aMyBM&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1hKU-amKnbu1vnlSgoTvHO7CIvFAOpGA&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "AMPHtoCLOUD",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1AVPav8cWD2gsfLhDNwzY7deDCcHK6gU&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1Rr0J3VHJig7AuzbjPxgfmzesQrw49II&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "AMPHtoEHF",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1AsY3eRRWX2pnfYdm-AIse9Gf2PaNZqU&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1-I-WK1AgLOdNNGVnLupQyAy5A9whVOs&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "AMPHtoHLTH",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1-nWp9ZBjnvFidihK49H5ZqWADMNij1A&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=11cbtvtAOC7dkpwdGVHS_EUiCQzVeQvA&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "AMPHtoJDVL",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1fp7kgk3VYNrlHyU8KGgDsNI8Yu-tCAs&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1zfFMW3XORKfpAt53sor3HHAVyyaNb10&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "AMPHtoLIBR",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1f-umhxldnUPVanrGy6OW8NNOuHFuhjo&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1ren9f1ZiP644S5NzEKpIesmeZ4crTxw&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "AMPHtoMUB",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=12Da0cQFxbkaB447Fo80Lk8tZgCpNapA&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1vvUeahg7xjlhP7fjM2Jak1fyugafU9k&ehbc=2E312F&noprof=1"
+    },
+    {
         "routeID": "AMPHtoSCI",
         "urlADA": "https://www.google.com/maps/d/embed?mid=1DG-f33fngwoza_nDf91ur-yaeUPzILY&ehbc=2E312F&noprof=1",
         "urlWalking": "https://www.google.com/maps/d/embed?mid=1v3M3G_eLTj-dbQgwDd8loQDkjcBKqFY&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "AMPHtoSU",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1Nm4uHbnADTlwbtOVDfSWGf3bqV86PNs&ehbc=2E312F&noprof=1",
+        "urlWalking": ""
+    },
+    {
+        "routeID": "AMPHtoVART",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=16YBHy_UbUsYa9sZIy_FS6DgGsqBg81k&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=13cOr0RM9DcVqroZxP7_881-clKqIx0k&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "AMPHtoWELL",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1W8r6IlWAZG70UUkBPJlcZOQiCU6DP4o&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1W8r6IlWAZG70UUkBPJlcZOQiCU6DP4o&ehbc=2E312F&noprof=1"
     }
 ]
