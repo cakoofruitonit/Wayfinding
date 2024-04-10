@@ -96,7 +96,7 @@ function useDirectionButton(){
         document.getElementById("error").innerHTML = null;
         changeButtonDiv.innerHTML = '<button id="change-image-btn" class="change-image-btn" onclick="changeImageSize()"><img height="65px" width="65px" src="images/shrink.png"></button>';
     }
-    if(startingPoint.match(destination)){
+    if(startingPoint === (destination)){
         directionsError.innerHTML = '<span style="color:rgb(255,99,71); font-size:70px;">Error:</span><br>The starting point and destination cannot be the same';
         directionsError.classList.add('show');
         directionsTextClass.classList.add('show');
