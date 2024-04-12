@@ -1,7 +1,77 @@
 [
     {
+        "routeID": "B700toAMPH",
+        "urlADA": "",
+        "urlWalking": ""
+    },
+    {
+        "routeID": "B700toART",
+        "urlADA": "",
+        "urlWalking": ""
+    },
+    {
+        "routeID": "B700toARTX",
+        "urlADA": "",
+        "urlWalking": ""
+    },
+    {
+        "routeID": "B700toBATL",
+        "urlADA": "",
+        "urlWalking": ""
+    },
+    {
+        "routeID": "B700toCAFE",
+        "urlADA": "",
+        "urlWalking": ""
+    },
+    {
+        "routeID": "B700toCLOUD",
+        "urlADA": "",
+        "urlWalking": ""
+    },
+    {
+        "routeID": "B700toEHF",
+        "urlADA": "",
+        "urlWalking": ""
+    },
+    {
+        "routeID": "B700toHLTH",
+        "urlADA": "",
+        "urlWalking": ""
+    },
+    {
+        "routeID": "B700toJDVL",
+        "urlADA": "",
+        "urlWalking": ""
+    },
+    {
+        "routeID": "B700toLIBR",
+        "urlADA": "",
+        "urlWalking": ""
+    },
+    {
+        "routeID": "B700toMUB",
+        "urlADA": "",
+        "urlWalking": ""
+    },
+    {
         "routeID": "B700toSCI",
         "urlADA": "https://www.google.com/maps/d/embed?mid=1hcA4C8hOzbcnHsrQl8kEVbimrJ0_Ydw&ehbc=2E312F&noprof=1",
         "urlWalking": "https://www.google.com/maps/d/embed?mid=1VKMRbDpr-Z7pQ7-5g28_QLuTPvBXQxM&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "B700toSU",
+        "urlADA": "",
+        "urlWalking": ""
+    },
+    {
+        "routeID": "B700toVART",
+        "urlADA": "",
+        "urlWalking": ""
+    },
+    {
+        "routeID": "B700toWELL",
+        "urlADA": "",
+        "urlWalking": ""
     }
 ]

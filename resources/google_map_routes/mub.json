@@ -1,5 +1,10 @@
 [
     {
+        "routeID": "MUBtoAMPH",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1Cn7zu-UGOmg8wUZiYkr70yhY7f70tDI&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1Rs58b-RtOtYWhkCgygnvTyTLmjQb74E&ehbc=2E312F&noprof=1"
+    },
+    {
         "routeID": "MUBtoART",
         "urlADA": "https://www.google.com/maps/d/embed?mid=139gYHtOBlSIZe3PRfK5q-lyzjs1wEXg&ehbc=2E312F&noprof=1",
         "urlWalking": "https://www.google.com/maps/d/embed?mid=139gYHtOBlSIZe3PRfK5q-lyzjs1wEXg&ehbc=2E312F&noprof=1"

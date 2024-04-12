@@ -1,5 +1,10 @@
 [
     {
+        "routeID": "CLOUDtoAMPH",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=19KY6aI8_itItLrVtBw2Jrg0WrwssS7A&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=144m-EtxDVS0mIhCOLhWgqFx6FyeNbTI&ehbc=2E312F&noprof=1"
+    },
+    {
         "routeID": "CLOUDtoART",
         "urlADA": "https://www.google.com/maps/d/embed?mid=1u74B0GD0ooXeJkSHpr91HyOOh_gu9II&ehbc=2E312F&noprof=1",
         "urlWalking": "https://www.google.com/maps/d/embed?mid=1tlaUW8eil2BUBbLWR9TzBAQWzX8nECE&ehbc=2E312F&noprof=1"

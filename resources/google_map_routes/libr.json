@@ -1,5 +1,10 @@
 [
     {
+        "routeID": "LIBRtoAMPH",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1qmEaj2r6-UXxCtg1MeNK6qE-Hvjw1bA&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1pPCvC1hHjVo5aqgneXqxoLvwb4krKzE&ehbc=2E312F&noprof=1"
+    },
+    {
         "routeID": "LIBRtoART",
         "urlADA": "https://www.google.com/maps/d/embed?mid=1_1qZKgaJSz7MCOwXWGzm4jWAAngBwd4&ehbc=2E312F&noprof=1",
         "urlWalking": "https://www.google.com/maps/d/embed?mid=1_1qZKgaJSz7MCOwXWGzm4jWAAngBwd4&ehbc=2E312F&noprof=1"

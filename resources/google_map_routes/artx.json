@@ -1,5 +1,10 @@
 [
     {
+        "routeID": "ARTXtoAMPH",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1PsLmwYSM7IcK2MjKji90y22x0bxEXhc&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1EDZsMvHH3GGitcFtyMBVZ-1cf4_Xe0k&ehbc=2E312F&noprof=1"
+    },
+    {
         "routeID": "ARTXtoART",
         "urlADA": "https://www.google.com/maps/d/embed?mid=1sEBWwcoebqfZK8dv2O4udw8YuzWm8E4&ehbc=2E312F&noprof=1",
         "urlWalking": "https://www.google.com/maps/d/embed?mid=1sEBWwcoebqfZK8dv2O4udw8YuzWm8E4&ehbc=2E312F&noprof=1"

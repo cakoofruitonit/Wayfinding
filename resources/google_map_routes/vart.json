@@ -1,5 +1,10 @@
 [
     {
+        "routeID": "VARTtoAMPH",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1aaxVdZYpinrwN5yOwk8oBd7wnBS884c&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1UMe8qPorDXgtALletsq7sfV5OmEKvj8&ehbc=2E312F&noprof=1"
+    },
+    {
         "routeID": "VARTtoART",
         "urlADA": "https://www.google.com/maps/d/embed?mid=1Urx1OA0NKXv_9lLct3jqjVmgdAJLHdU&ehbc=2E312F&noprof=1",
         "urlWalking": "https://www.google.com/maps/d/embed?mid=1AK0O9zyGJgrSbSoPQoXMRWcNMfvQNDA&ehbc=2E312F&noprof=1"

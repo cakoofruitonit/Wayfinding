@@ -1,5 +1,10 @@
 [
     {
+        "routeID": "EHFtoAMPH",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1yZfzO7cRlRRq7RWeVG-KN83tTw_SS84&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1IasRxVw6j69UPhEqcMvZgN8ZwJi1hr8&ehbc=2E312F&noprof=1"
+    },
+    {
         "routeID": "EHFtoART",
         "urlADA": "https://www.google.com/maps/d/embed?mid=1gEig_r1UNxAe4yhF-HbrhFirVKuPkDU&ehbc=2E312F&noprof=1",
         "urlWalking": "https://www.google.com/maps/d/embed?mid=1gEig_r1UNxAe4yhF-HbrhFirVKuPkDU&ehbc=2E312F&noprof=1"

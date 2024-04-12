@@ -1,5 +1,10 @@
 [
     {
+        "routeID": "HLTHtoAMPH",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1KEZMQ14erSI_TF7uZHG9TeRpBYudFH8&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1fVOKKfVYCSiLG5L_eY2lz04NhisY4SY&ehbc=2E312F&noprof=1"
+    },
+    {
         "routeID": "HLTHtoART",
         "urlADA": "https://www.google.com/maps/d/embed?mid=13bCUwKL8X24NJW0H8yh1SaBF6xQF2B4&ehbc=2E312F&noprof=1",
         "urlWalking": "https://www.google.com/maps/d/embed?mid=13bCUwKL8X24NJW0H8yh1SaBF6xQF2B4&ehbc=2E312F&noprof=1"

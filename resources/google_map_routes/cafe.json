@@ -1,5 +1,10 @@
 [
     {
+        "routeID": "CAFEtoAMPH",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1ikQcpmF14xsTonuJe7NO_RyjmiAId7Y&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1cFjb2NGfN_JYZyqkT0bFf8-HnkDnNx0&ehbc=2E312F&noprof=1"
+    },
+    {
         "routeID": "CAFEtoART",
         "urlADA": "https://www.google.com/maps/d/embed?mid=1P1EoEcJ5Sgtmx34BT0bY4DkbfptqHIM&ehbc=2E312F&noprof=1",
         "urlWalking": "https://www.google.com/maps/d/embed?mid=15t7BvWZIsw3AH_UJMZs0N1E2e567UKg&ehbc=2E312F&noprof=1"
