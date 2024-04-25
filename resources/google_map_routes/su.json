@@ -2,7 +2,7 @@
     {
         "routeID": "SUtoAMPH",
         "urlADA": "https://www.google.com/maps/d/embed?mid=1TdeLXeirz3C3EqXzjws95SMmwFaR08Q&ehbc=2E312F&noprof=1",
-        "urlWalking": ""
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=10naqRde9eXIs2bpPKkhzrTKfZi-a-yE&ehbc=2E312F&noprof=1"
     },
     {
         "routeID": "SUtoART",
@@ -11,7 +11,7 @@
     },
     {
         "routeID": "SUtoARTX",
-        "urlADA": "",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1bsIphznnDdApsdej2QjKSDHITEpB2uk&ehbc=2E312F&noprof=1",
         "urlWalking": "https://www.google.com/maps/d/embed?mid=122Xc-pt1X6RgPJwjVDGa8mqI__p6aGk&ehbc=2E312F&noprof=1"
     },
     {
@@ -26,8 +26,8 @@
     },
     {
         "routeID": "SUtoCAFE",
-        "urlADA": "",
-        "urlWalking": ""
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1tIUHqAWUsCJf8KTgLtOXPYtMw_gj4HA&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1tIUHqAWUsCJf8KTgLtOXPYtMw_gj4HA&ehbc=2E312F&noprof=1"
     },
     {
         "routeID": "SUtoCLOUD",
@@ -76,7 +76,7 @@
     },
     {
         "routeID": "SUtoWELL",
-        "urlADA": "",
-        "urlWalking": ""
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1AWgfsFi9qXEuSB7bWyTwujrK8_pCSYM&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1PBBeYsFnXmCMK_pZntttG8aIGSwZ44w&ehbc=2E312F&noprof=1"
     }
 ]

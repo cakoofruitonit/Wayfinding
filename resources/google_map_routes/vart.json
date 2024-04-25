@@ -66,8 +66,8 @@
     },
     {
         "routeID": "VARTtoSU",
-        "urlADA": "",
-        "urlWalking": ""
+        "urlADA": "https://www.google.com/maps/d/embed?mid=10AGigmvZR7Wk_PWn0CetY4vzL650xqE&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=10AGigmvZR7Wk_PWn0CetY4vzL650xqE&ehbc=2E312F&noprof=1"
     },
     {
         "routeID": "VARTtoWELL",
