@@ -7,17 +7,17 @@
     {
         "routeID": "VARTtoART",
         "urlADA": "https://www.google.com/maps/d/embed?mid=1Urx1OA0NKXv_9lLct3jqjVmgdAJLHdU&ehbc=2E312F&noprof=1",
-        "urlWalking": "https://www.google.com/maps/d/embed?mid=1AK0O9zyGJgrSbSoPQoXMRWcNMfvQNDA&ehbc=2E312F&noprof=1"
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1Urx1OA0NKXv_9lLct3jqjVmgdAJLHdU&ehbc=2E312F&noprof=1"
     },
     {
         "routeID": "VARTtoARTX",
-        "urlADA": "https://www.google.com/maps/d/embed?mid=13DR7J8iokmk1rczkrsNbbqtz--WL5KE&ehbc=2E312F&noprof=1",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1W9CEHaPpg8We3kC1v3UVnQ0pMYgzXaU&ehbc=2E312F&noprof=1",
         "urlWalking": "https://www.google.com/maps/d/embed?mid=1W9CEHaPpg8We3kC1v3UVnQ0pMYgzXaU&ehbc=2E312F&noprof=1"
     },
     {
         "routeID": "VARTtoB700",
-        "urlADA": "",
-        "urlWalking": ""
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1rR2ANQS7qkUGPb9S7GusPbVsX5TF_5g&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1EO9qonWh_3oR29nFOoUZvZtSk0JBU5I&ehbc=2E312F&noprof=1"
     },
     {
         "routeID": "VARTtoBATL",

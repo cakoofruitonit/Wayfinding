@@ -15,6 +15,11 @@
         "urlWalking": "https://www.google.com/maps/d/embed?mid=1JIdndXL9mlq__RrqkqTvzd8h9WUUVfM&ehbc=2E312F&noprof=1"
     },
     {
+        "routeID": "LIBRtoB700",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1hqgqpjhGymjjXfF0Xcw5CTuZmOq5nPA&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1r3NqVrpJSvcuQkKDJ4smOI3ITNKuZ-4&ehbc=2E312F&noprof=1"
+    },
+    {
         "routeID": "LIBRtoBATL",
         "urlADA": "https://www.google.com/maps/d/embed?mid=1DpJ9kEy3yoXBdrrtP6GoO--liujeIc8&ehbc=2E312F&noprof=1",
         "urlWalking": "https://www.google.com/maps/d/embed?mid=1DpJ9kEy3yoXBdrrtP6GoO--liujeIc8&ehbc=2E312F&noprof=1"
@@ -53,6 +58,16 @@
         "routeID": "LIBRtoSCI",
         "urlADA": "https://www.google.com/maps/d/embed?mid=1O-nO6OEi_MsL_uulllbRL3SvNOPZlzM&ehbc=2E312F&noprof=1",
         "urlWalking": "https://www.google.com/maps/d/embed?mid=1OExhulV-ubOf-lmGaaKHs4tJdxey5n0&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "LIBRtoSU",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1ohGxooSGc0iQYpelhz3Ai7S92fLL6_E&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1ohGxooSGc0iQYpelhz3Ai7S92fLL6_E&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "LIBRtoVART",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1avTVSrQ8lEY-r2WHuoLiptWyQitSgQk&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1avTVSrQ8lEY-r2WHuoLiptWyQitSgQk&ehbc=2E312F&noprof=1"
     },
     {
         "routeID": "LIBRtoWELL",

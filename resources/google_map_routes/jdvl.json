@@ -15,6 +15,11 @@
         "urlWalking": "https://www.google.com/maps/d/embed?mid=18Mm467YlNAOfrxwHrccdJ0tZGGc_jIo&ehbc=2E312F&noprof=1"
     },
     {
+        "routeID": "JDVLtoB700",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1CzmTB0MAH21IFxWsuKhaNxPAZCTJaeA&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=11vqwI9pwkKvxg-6LlEBBauzOnxOyQXE&ehbc=2E312F&noprof=1"
+    },
+    {
         "routeID": "JDVLtoBATL",
         "urlADA": "https://www.google.com/maps/d/embed?mid=13UuV4TGmlf3Nwe0N8RlwXu588cWx-yg&ehbc=2E312F&noprof=1",
         "urlWalking": "https://www.google.com/maps/d/embed?mid=13UuV4TGmlf3Nwe0N8RlwXu588cWx-yg&ehbc=2E312F&noprof=1"
@@ -53,6 +58,16 @@
         "routeID": "JDVLtoSCI",
         "urlADA": "https://www.google.com/maps/d/embed?mid=1uQTghZ0VlPS0rOVYdB6adHs12OpQQxs&ehbc=2E312F&noprof=1",
         "urlWalking": "https://www.google.com/maps/d/embed?mid=1yQjv3IwTpHg5I58776v8Xm-sYwAV6TQ&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "JDVLtoSU",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1Ho72H-ppDQNXbwnRVNpzB_QkJnd5D2Q&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1J_z3xNGoEO5GHdW4xlA5GxrOB1oaCIE&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "JDVLtoVART",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1-_kIrr4iSXs01HAf23Rob95wS5m-XKc&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1-_kIrr4iSXs01HAf23Rob95wS5m-XKc&ehbc=2E312F&noprof=1"
     },
     {
         "routeID": "JDVLtoWELL",

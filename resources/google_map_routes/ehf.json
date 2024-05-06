@@ -15,6 +15,11 @@
         "urlWalking": "https://www.google.com/maps/d/embed?mid=1WtILXFZm9nwzSdDAk_mI-QYSEG6tDfY&ehbc=2E312F&noprof=1"
     },
     {
+        "routeID": "EHFtoB700",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1kIbQfb5htkim3PeY-x7mUH_uL3s1fog&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1tWt_wnck2Cw5K7cCcWf6vPBFL6IBJ5c&ehbc=2E312F&noprof=1"
+    },
+    {
         "routeID": "EHFtoBATL",
         "urlADA": "https://www.google.com/maps/d/embed?mid=1EgOQYh6H-0oWQep9V5Yzo1oS4-glBTk&ehbc=2E312F&noprof=1",
         "urlWalking": "https://www.google.com/maps/d/embed?mid=1EgOQYh6H-0oWQep9V5Yzo1oS4-glBTk&ehbc=2E312F&noprof=1"
@@ -53,6 +58,16 @@
         "routeID": "EHFtoSCI",
         "urlADA": "https://www.google.com/maps/d/embed?mid=1Xfv_44cK-zvpFTQQOQbzba5jShc38PI&ehbc=2E312F&noprof=1",
         "urlWalking": "https://www.google.com/maps/d/embed?mid=1zcoLF3hlW8z5P_fDaPQlIWiHKbHAK-o&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "EHFtoSU",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1ljTnxNPRxIj8sdOq_5CrgcLjPZ1RBuY&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1RMoM8jp3KR4JKcdfnmERzLIyvQrAUsg&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "EHFtoVART",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1amdIKJnZwB__K1aTKMFYUSOgan4ue94&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1amdIKJnZwB__K1aTKMFYUSOgan4ue94&ehbc=2E312F&noprof=1"
     },
     {
         "routeID": "EHFtoWELL",

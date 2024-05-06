@@ -15,6 +15,11 @@
         "urlWalking": "https://www.google.com/maps/d/embed?mid=1HV4XuoVjh5Eq9Xy2I4mEECbKLTNqblY&ehbc=2E312F&noprof=1"
     },
     {
+        "routeID": "BATLtoB700",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1SNT5lyrkxRn484NEZGoyef35Br4Ldyk&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1GFyUVI2Dlamv0U2f1k1ztAzPeUDwgZ4&ehbc=2E312F&noprof=1"
+    },
+    {
         "routeID": "BATLtoCAFE",
         "urlADA": "https://www.google.com/maps/d/embed?mid=1AEhe8zwvBOOa6kz4Pm4pSGxMyTj21ew&ehbc=2E312F&noprof=1",
         "urlWalking": "https://www.google.com/maps/d/embed?mid=1AEhe8zwvBOOa6kz4Pm4pSGxMyTj21ew&ehbc=2E312F&noprof=1"
@@ -58,6 +63,16 @@
         "routeID": "BATLtoSTAD",
         "urlADA": "",
         "urlWalking": ""
+    },
+    {
+        "routeID": "BATLtoSU",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1LaPR3dC9EmfaYghrWZyD8A0TjDN0DhY&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1LaPR3dC9EmfaYghrWZyD8A0TjDN0DhY&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "BATLtoVART",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=11xW-hde1GXAse2_InIqJNxzxOCIJzZk&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=11xW-hde1GXAse2_InIqJNxzxOCIJzZk&ehbc=2E312F&noprof=1"
     },
     {
         "routeID": "BATLtoWELL",

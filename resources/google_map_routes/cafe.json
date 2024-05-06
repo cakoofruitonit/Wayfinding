@@ -20,6 +20,11 @@
         "urlWalking": "https://www.google.com/maps/d/embed?mid=1tN_6kfTUckd1IaTQV3NxqqDJVEDqTkQ&ehbc=2E312F&noprof=1"
     },
     {
+        "routeID": "CAFEtoB700",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1ynQoc7FiZ7jcxFd_NbGW88KuuMyV3Vc&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1adfV5ot7As06w3zOx7ezrpSgNGNklOc&ehbc=2E312F&noprof=1"
+    },
+    {
         "routeID": "CAFEtoCLOUD",
         "urlADA": "https://www.google.com/maps/d/embed?mid=19ii-DLeQLyyj5sZUmDdiTJZbCxFe9NI&ehbc=2E312F&noprof=1",
         "urlWalking": "https://www.google.com/maps/d/embed?mid=1nj1tlbSHGEM2mRLOBwTvFzrCFwx3sCs&ehbc=2E312F&noprof=1"
@@ -53,6 +58,16 @@
         "routeID": "CAFEtoSCI",
         "urlADA": "https://www.google.com/maps/d/embed?mid=1I2qPfFr8SafnRnLNheesBFoW6rVm1wY&ehbc=2E312F&noprof=1",
         "urlWalking": "https://www.google.com/maps/d/embed?mid=1u-aDUU0ceA0I-6fjhklBrmcQI3IpCBM&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "CAFEtoSU",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1WXsekKn4t7idXhrifK8uMrFmEZfbQ-w&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1WXsekKn4t7idXhrifK8uMrFmEZfbQ-w&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "CAFEtoVART",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1SxkcQy5KV0r55maMKx8i5pzquRjZEIs&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1BDU05hDn891aQo1ZF1JhbFOkc0B4xac&ehbc=2E312F&noprof=1"
     },
     {
         "routeID": "CAFEtoWELL",

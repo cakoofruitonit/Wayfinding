@@ -16,8 +16,8 @@
     },
     {
         "routeID": "SUtoB700",
-        "urlADA": "",
-        "urlWalking": ""
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1VFkbDGmpUPJuTmHBesv7vvcpUNgFUYs&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1EfjE0_j1Sntla-YNDcFrc8ghov7MBbI&ehbc=2E312F&noprof=1"
     },
     {
         "routeID": "SUtoBATL",
@@ -71,8 +71,8 @@
     },
     {
         "routeID": "SUtoVART",
-        "urlADA": "",
-        "urlWalking": ""
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1HSNPcrL3438pdHCLvkbIAs9mvEIel8E&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1HSNPcrL3438pdHCLvkbIAs9mvEIel8E&ehbc=2E312F&noprof=1"
     },
     {
         "routeID": "SUtoWELL",

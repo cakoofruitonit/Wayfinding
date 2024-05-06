@@ -15,6 +15,11 @@
         "urlWalking": "https://www.google.com/maps/d/embed?mid=1n0FkmqVm7c6-pYE31ATqCTaIg9FfGo8&ehbc=2E312F&noprof=1"
     },
     {
+        "routeID": "CLOUDtoB700",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1CknoVJ6SkX-8oSuhGkqFp3gkkgArlCI&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1ZJ17rp9M0Nzl2sktAvBbRvgSdYbeXh0&ehbc=2E312F&noprof=1"
+    },
+    {
         "routeID": "CLOUDtoBATL",
         "urlADA": "https://www.google.com/maps/d/embed?mid=1XJZkO3ar8Y7JvEph48fWJYVLuS7U0kY&ehbc=2E312F&noprof=1",
         "urlWalking": "https://www.google.com/maps/d/embed?mid=1MB6F0zgk960efmU_Vc7IDraT-K4ZnUY&ehbc=2E312F&noprof=1"
@@ -53,6 +58,16 @@
         "routeID": "CLOUDtoSCI",
         "urlADA": "https://www.google.com/maps/d/embed?mid=1iWjW5q3EHJy3Lbf0oT4gHlJpgkmqgIs&ehbc=2E312F&noprof=1",
         "urlWalking": "https://www.google.com/maps/d/embed?mid=1yCiME24ICVo7n6eS4vntCngNakvhifM&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "CLOUDtoSU",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1YcGuIRMVc30BVY0bmVVm5h3bDwsJ4AM&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=16Xe1ZoIdCADvJIThsfLRGMgUDiFWsxw&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "CLOUDtoVART",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1FHyroB6UPxdS9u0hvsw3J8M_m9a0aZk&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=16CDxURefG1cbB8sPIWb5_KUMsopwnOU&ehbc=2E312F&noprof=1"
     },
     {
         "routeID": "CLOUDtoWELL",

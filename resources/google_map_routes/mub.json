@@ -15,6 +15,11 @@
         "urlWalking": "https://www.google.com/maps/d/embed?mid=15o4VMbkmL_I_siL_koZdnMM56anIZqo&ehbc=2E312F&noprof=1"
     },
     {
+        "routeID": "MUBtoB700",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1zDyuIagCAlUgoIUihjZMwoMf_aqh53I&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=19Yz9J_C3zFoyjHH65yKYfrZrX4iNsZk&ehbc=2E312F&noprof=1"
+    },
+    {
         "routeID": "MUBtoBATL",
         "urlADA": "https://www.google.com/maps/d/embed?mid=1OBKZpWvvHGA6e3EiBSVlJVLnMgXknMM&ehbc=2E312F&noprof=1",
         "urlWalking": "https://www.google.com/maps/d/embed?mid=1OBKZpWvvHGA6e3EiBSVlJVLnMgXknMM&ehbc=2E312F&noprof=1"
@@ -53,6 +58,16 @@
         "routeID": "MUBtoSCI",
         "urlADA": "https://www.google.com/maps/d/embed?mid=1nczk52BNs0Vcj29Bh6Kdabfwfnk289E&ehbc=2E312F&noprof=1",
         "urlWalking": "https://www.google.com/maps/d/embed?mid=17_R3zkB9Dbt0plq0oJaeXRQOlGZUbYk&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "MUBtoSU",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1UdTBx0hK6A-OktWRrP_5NwZ4U-0PxI4&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1UdTBx0hK6A-OktWRrP_5NwZ4U-0PxI4&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "MUBtoVART",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1tqwWGEIcJgpDtZVFtNL8fyL-7BrfCWM&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1tqwWGEIcJgpDtZVFtNL8fyL-7BrfCWM&ehbc=2E312F&noprof=1"
     },
     {
         "routeID": "MUBtoWELL",

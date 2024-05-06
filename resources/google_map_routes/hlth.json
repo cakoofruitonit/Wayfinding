@@ -15,6 +15,11 @@
         "urlWalking": "https://www.google.com/maps/d/embed?mid=1KqO5OwZTg2W9M8-7yW0xqjNgZzedWAU&ehbc=2E312F&noprof=1"
     },
     {
+        "routeID": "HLTHtoB700",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1Twy0PZj1mimW7XUuMwn9342-lLnOqrE&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1XBcN96rWZhIkWjaXQM0sU5MQ0pIDW24&ehbc=2E312F&noprof=1"
+    },
+    {
         "routeID": "HLTHtoBATL",
         "urlADA": "https://www.google.com/maps/d/embed?mid=1dNoT9anYWvIwljD9PR1XoPcArRTIbaE&ehbc=2E312F&noprof=1",
         "urlWalking": "https://www.google.com/maps/d/embed?mid=1dNoT9anYWvIwljD9PR1XoPcArRTIbaE&ehbc=2E312F&noprof=1"
@@ -53,6 +58,16 @@
         "routeID": "HLTHtoSCI",
         "urlADA": "https://www.google.com/maps/d/embed?mid=1eCru9mZZ7F7IMaR0vcmTjBgfSZZEV7Y&ehbc=2E312F&noprof=1",
         "urlWalking": "https://www.google.com/maps/d/embed?mid=1x1fHP2m6nrNrz717-s40KHawEtqnJq4&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "HLTHtoSU",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1xl9IuWZ69T4mRAukILr6n6GxdEOmCyA&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1B4YSL21fZpzgVIhpMCygMM2TKAY0A9k&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "HLTHtoVART",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1958WKyuRqs83EUnfdPIk6m5REV2kulc&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1-cCySISN0RUGLm8UUifrMi8gd4fiGSI&ehbc=2E312F&noprof=1"
     },
     {
         "routeID": "HLTHtoWELL",

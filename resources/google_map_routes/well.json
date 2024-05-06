@@ -15,6 +15,11 @@
         "urlWalking": "https://www.google.com/maps/d/embed?mid=1VyI7kbequjtkujzfvZquyJERdfs2X0U&ehbc=2E312F&noprof=1"
     },
     {
+        "routeID": "WELLtoB700",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1fSnhJAWb8S_kfs2Qi_txCCD7L96GKTE&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1fSnhJAWb8S_kfs2Qi_txCCD7L96GKTE&ehbc=2E312F&noprof=1"
+    },
+    {
         "routeID": "WELLtoBATL",
         "urlADA": "https://www.google.com/maps/d/embed?mid=18_vQc6dQyToCfqHE8lqIzxVBDc1M2OU&ehbc=2E312F&noprof=1",
         "urlWalking": "https://www.google.com/maps/d/embed?mid=1f6hpBnqRnMjo3CnzHT22fIjdFwd30tc&ehbc=2E312F&noprof=1"
@@ -58,5 +63,15 @@
         "routeID": "WELLtoSCI",
         "urlADA": "https://www.google.com/maps/d/embed?mid=1uTI9_jN22OCn8qO8GmOPqj0vZzxoTkY&ehbc=2E312F&noprof=1",
         "urlWalking": "https://www.google.com/maps/d/embed?mid=1uviR5u0jWUMfdSKm_GsDbWzUdrCNvFQ&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "WELLtoSU",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=12MQvq3wyRG-NykJLBHUF8Tth4KR9tr4&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1q0y1xwh0-B5QBY9NAsMsag95l2Fcm0c&ehbc=2E312F&noprof=1"
+    },
+    {
+        "routeID": "WELLtoVART",
+        "urlADA": "https://www.google.com/maps/d/embed?mid=1DEnhofOhzYlK824Hyzf-naTggFw9Ge4&ehbc=2E312F&noprof=1",
+        "urlWalking": "https://www.google.com/maps/d/embed?mid=1wamm4Wgtr0VzcOsZtQQWlYoibyFNzXc&ehbc=2E312F&noprof=1"
     }
 ]
